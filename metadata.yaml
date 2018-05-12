@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5596
     wikipedia: http://en.wikipedia.org/wiki/Nehemiah_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14615#The-Sable-Cloud--A-Southern-Tale-With-Northern-Comments--1861-
 gutenberg_issued: '2005-01-06'
 gutenberg_type: Text
 identifiers:
